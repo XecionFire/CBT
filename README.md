@@ -17,7 +17,7 @@ CBT (Computer Based Test) Platform adalah aplikasi web yang dirancang untuk menj
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express
-- **Database**: Mysql (karena mongoDb tidak bisa berjalan di server dengan ram 1024Mb)
+- **Database**: Mysql (untuk menjangkau server yang memiliki kapasitas kecil)
 
 ## Prasyarat
 
